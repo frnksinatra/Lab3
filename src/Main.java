@@ -41,7 +41,7 @@ public class Main {
 
 
             System.out.printf("%s%16s%16s\n", "x", "x^2", "x^3");
-            System.out.println("=====================================");
+            System.out.println("=================================");
 
             for (int i = 1; i <= userInput; i++) {
 
